@@ -748,8 +748,7 @@ class DiagnosticoHidroespacial(QgsProcessingAlgorithm):
         )
 
         feedback.pushInfo(
-            "DIAGNÓSTICO HIDROESPACIAL – "
-            "v1.1.6 | MODELO 01/V3"
+            "MODELO 01 v1.1.6 – DIAGNOSTICO HIDROESPACIAL"
         )
 
         feedback.pushInfo(
