@@ -160,7 +160,7 @@ VALIDAÇÃO TÉCNICA
 ## 5. Modelo 01 — Diagnóstico Hidroespacial
 
 Script:
-01_Diagnostico_Hidroespacial_v1.1.6.py
+01_Diagnostico_Hidroespacial_v1_1_6.py
 
 O Modelo 01 prepara as informações espaciais necessárias para a segmentação.
 
@@ -185,7 +185,7 @@ O CRS deve ser definido de acordo com a localização do acordo analisado.
 ## 6. Modelo 02 — Segmentação dos Sistemas Aquáticos
 
 Script:
-02_Segmentacao_Sistemas_Aquaticos_v2.0.5.py
+02_Segmentacao_Sistemas_Aquaticos_v2_0_5.py
 
 O Modelo 02 utiliza os resultados do diagnóstico hidroespacial e as informações
 JRC para produzir a segmentação funcional dos sistemas aquáticos.
